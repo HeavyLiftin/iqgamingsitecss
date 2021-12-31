@@ -1,0 +1,112 @@
+
+
+
+
+#block-1671e5addedd38428d1f
+{background-image: url(https://i.imgur.com/ay05crJ.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 30px;
+  border-right: solid 2px Black;
+  border-left: solid 2px Black;
+  border-top: solid 2px Black;
+}
+
+#block-58c5a0f002a4a2f9d366
+{background-image: url(https://i.imgur.com/ay05crJ.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 30px;
+  border-right: solid 2px Black;
+  border-left: solid 2px Black;
+  border-bottom: solid 2px Black;
+}
+
+#block-478982aba17747f75cef,
+#block-e02a5e1da710cd06e722,
+#block-36d9f2baefc7065ea007,
+#block-d4c2d135df5aa5eca35f,
+#block-eb04734b17a8fb3207eb,
+#block-01d5801d9c45e926ce22,
+#block-b6cd333b63e1755d8d78,
+#block-bb3cbb6e1d157038938d,
+#block-0f862ad28f50f8ba55ad,
+#block-726190b54b03b9ac238c,
+#block-1987917a5362cb50b7f1,
+#block-a90d22636275763b84a0,
+#block-1b70b5ab63e596d8146d,
+#block-84dd5ef233a4c3a0fbe6,
+#block-b810cfdb7dda34ae466d,
+#block-91d02fbae365ce987711,
+#block-9e4b2d02f5fbf83ec769,
+#block-d346bd308e9161d121d8,
+#block-4deed00e0e2075b639f4,
+#block-df83c437527e5806f7b5,
+#block-97400ead8c4683c76e8d,
+#block-5d6aa053901d6a973769,
+#block-0409162430b70ab8c4c1,
+#block-503d8b4633bb7441081a,
+#block-64884e45dc06f23776cd,
+#block-42aba90e3d33cb8b5f5f,
+#block-bf51c6e72349adae7c6a,
+#block-6cf0cb31cb183cf26a77,
+#block-bd6b40a4a91da3b170bc,
+#block-52b47add18c83dcac141,
+#block-a2c5e47c62cf4b6f42f9,
+#block-072ccaaa39c29a4c0991,
+#block-cc60b3eb68ba7961fc38,
+#block-a341c1e0bfbd85f8e265,
+#block-f2a8f39f29c0d9fc62ad,
+#block-d5d5acb63e495a22fb3b,
+#block-10393e0722c5bd93d2c1,
+#block-2067f8b11ef7389848b1,
+#block-f6b5b95a1f16cd5dfd50,
+#block-88c616d24d76889b0183,
+#block-45dc1bdc4a26b1f6a8d7,
+#block-2c6020f2e11c9f6a5eb5,
+#block-bda802d1dba26bdff0d8,
+#block-5abe0b4cdd93184f8f1c,
+#block-4e5dc92432486c1290ed,
+#block-cf9ce15535c4799393f0,
+#block-c0e6d56515f6b1546cbc,
+#block-7a833aa827aebbf03797,
+#block-2f9249ebc926bf87994e,
+#block-ded45a720e3451de90f7,
+#block-fd9ded5eec0491e2621a,
+#block-ac213e1b121288fbedff
+{background-image: url(https://i.imgur.com/ay05crJ.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 30px;
+  border-right: solid 2px Black;
+  border-left: solid 2px Black;
+}
+
+
+
+
+
+
+[data-section-id="61cb71c5b7a337404cdd9f3e"] .section-background::after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-image: url(https://i.imgur.com/M8l93rk.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+@media (max-width: 787px) {
+  [data-section-id="61bbd55ebd1a0f266a74b927"] .section-background::after {
+    background-position: center center;
+    background-attachment: fixed !important;
+  }
+}
