@@ -1,6 +1,5 @@
 /*AoK Guide Backgrounds*/
 
-[data-section-id="61ce893613e3a67f8589eb2e"],
 [data-section-id="61c3805b0809a369c9cd1a1d"],
 [data-section-id="61c26ceacad49f1ed55a2907"],
 [data-section-id="61c261486b50640fa965d567"],
@@ -1981,4 +1980,18 @@ background-image: url(https://i.imgur.com/LhxKJpU.jpg);
   border-right: solid 2px Black;
   border-left: solid 2px Black;
   border-bottom: solid 2px Black;
+}
+
+
+[data-section-id="61ce893613e3a67f8589eb2e"]
+.section-background::after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-image: url(https://i.imgur.com/yR37HVC.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
 }
