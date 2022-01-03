@@ -1,3 +1,53 @@
+/*AoK Guide Backgrounds*/
+
+[data-section-id="61ce893613e3a67f8589eb2e"],
+[data-section-id="61c3805b0809a369c9cd1a1d"],
+[data-section-id="61c26ceacad49f1ed55a2907"],
+[data-section-id="61c261486b50640fa965d567"],
+[data-section-id="61c2424525c93b3749369e86"],
+[data-section-id="61c937962d15544a8d666581"],[data-section-id="61c0bfc66152ec567fb4a861"],[data-section-id="61c4e5618a44691824c2dcb1"]
+[data-section-id="61cb71c5b7a337404cdd9f3e"],
+[data-section-id="61c4e5618a44691824c2dcb1"]{
+.section-background::after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-image: url(https://i.imgur.com/yR37HVC.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+@media (max-width: 787px) {
+  [data-section-id="61cb71c5b7a337404cdd9f3e"] .section-background::after {
+    background-position: center center;
+    background-attachment: fixed !important;
+  }
+}
+}
+
+/*TBC GUIDE BACKGROUNDS*/
+[data-section-id="608dbc9755f6f13a4cdebbad"],
+[data-section-id="609819e17f0bf7797f38d56d"],
+[data-section-id="60a0882576fb0824c44f1e66"],
+[data-section-id="60a3b484c07214097dc82432"],
+[data-section-id="609086b44fb9220930cbc14f"],
+[data-section-id="609764138f966c26e8460219"],
+[data-section-id="60996d1f8f539c68035fccc5"], [data-section-id="609762678f966c26e845ecca"],[data-section-id="608d7a61ed4dab3a86b29cf9"],[data-section-id="608d7c8ced4dab3a86b2c9b6"],[data-section-id="6091786a323ca06d0285e206"],[data-section-id="60976424890bfb3aac8d46ef"], [data-section-id="609764138f966c26e8460219"], [data-section-id="608dbc9755f6f13a4cdebbad"], [data-section-id="60981b5fd28bd442ab2ec17c"], [data-section-id="609d49e437d33d34c83293d3"], [data-section-id="609ecc62abaed77f09cf49e5"], [data-section-id="6137a4406585567cba64c215"], [data-section-id="609086b44fb9220930cbc14f"], [data-section-id="60a3b495e6d63c74ccf7ab6e"], [data-section-id="60a0882576fb0824c44f1e66"], [data-section-id="60981b5fd28bd442ab2ec17c"], [data-section-id="609819e17f0bf7797f38d56d"], [data-section-id="60a3b484c07214097dc82432"]   {
+  .section-background::after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-image: url(https://i.imgur.com/0RRUR65.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  }
+}
+
 #block-613c14df81110d39d1bab5b7 {
 padding: 50px;;
 color: BLACK;
@@ -555,6 +605,38 @@ background-image: url(https://i.imgur.com/LhxKJpU.jpg);
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #block-yui_3_17_2_1_1632713542659_19737,
 #block-yui_3_17_2_1_1632713542659_14771,
 #block-yui_3_17_2_1_1632713542659_16022,
@@ -641,6 +723,20 @@ background-image: url(https://i.imgur.com/LhxKJpU.jpg);
   border-right: solid 2px Black;
   border-top: solid 2px Black;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1170,7 +1266,7 @@ background-image: url(https://i.imgur.com/LhxKJpU.jpg);
   border-right: solid 2px Black;
   border-left: solid 2px Black;
 }
-#block-c991ff6dc02952cc4f99,
+#block-c991ff6dc02952cc4f99
 {background-image: url(https://i.imgur.com/WJZuiO0.jpg);
   background-repeat: no-repeat;
   background-position: center center;
@@ -1778,7 +1874,6 @@ background-image: url(https://i.imgur.com/LhxKJpU.jpg);
   border-left: solid 2px Black;
   border-top: solid 2px Black;
 }
-
 
 
 [data-section-id="608dbc9755f6f13a4cdebbad"],
