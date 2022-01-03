@@ -7,7 +7,7 @@
 [data-section-id="61c2424525c93b3749369e86"],
 [data-section-id="61c937962d15544a8d666581"],[data-section-id="61c0bfc66152ec567fb4a861"],[data-section-id="61c4e5618a44691824c2dcb1"],
 [data-section-id="61cb71c5b7a337404cdd9f3e"],
-[data-section-id="61c4e5618a44691824c2dcb1"]{
+[data-section-id="61c4e5618a44691824c2dcb1"]
 .section-background::after {
   content: "";
   width: 100%;
@@ -18,7 +18,6 @@
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
-}
 }
 
 /*TBC GUIDE BACKGROUNDS*/
