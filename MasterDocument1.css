@@ -19,12 +19,6 @@
   background-position: center center;
   background-attachment: fixed;
 }
-@media (max-width: 787px) {
-  [data-section-id="61cb71c5b7a337404cdd9f3e"] .section-background::after {
-    background-position: center center;
-    background-attachment: fixed !important;
-  }
-}
 }
 
 /*TBC GUIDE BACKGROUNDS*/
