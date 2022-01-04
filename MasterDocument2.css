@@ -1887,7 +1887,7 @@ border-top: solid 2px Black;
   padding: 30px;
   border-right: solid 2px Black;
   border-left: solid 2px Black;
-  @media (max-width: 767px){
+  @media only screen and (max-width: 767px) {
     background-size: 100% 3000vh;
         }
     }
