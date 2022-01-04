@@ -1407,7 +1407,10 @@ border-top: solid 2px Black;
   padding: 30px;
   border-right: solid 2px Black;
   border-left: solid 2px Black;
-}
+  @media (max-width: 767px){
+    background-size: 100% 3000vh;
+        }
+    }
 
 #block-5c18564579dbdfda7615
 {background-image: url(https://i.imgur.com/ay05crJ.jpg);
@@ -1419,7 +1422,10 @@ border-top: solid 2px Black;
   border-right: solid 2px Black;
   border-left: solid 2px Black;
   border-bottom: solid 2px Black;
-}
+  @media (max-width: 767px){
+    background-size: 100% 3000vh;
+        }
+    }
 
 /*Guide Top Sections*/
 
@@ -1442,8 +1448,10 @@ border-top: solid 2px Black;
   border-right: solid 2px Black;
   border-left: solid 2px Black;
   border-top: solid 2px Black;
-}
-
+  @media (max-width: 767px){
+    background-size: 100% 3000vh;
+        }
+    }
 
 
 /*AoK Guide Mid-Sections*/
@@ -1879,7 +1887,10 @@ border-top: solid 2px Black;
   padding: 30px;
   border-right: solid 2px Black;
   border-left: solid 2px Black;
-}
+  @media (max-width: 767px){
+    background-size: 100% 3000vh;
+        }
+    }
 
 
  /*AoK Bottom Sections*/
@@ -1905,92 +1916,7 @@ border-top: solid 2px Black;
   border-right: solid 2px Black;
   border-left: solid 2px Black;
   border-bottom: solid 2px Black;
-}
-
-#block-d0bb6a982c57a1408ab1,
-#block-yui_3_17_2_1_1629751789771_24531,
-#block-yui_3_17_2_1_1629751789771_21965,
-#block-yui_3_17_2_1_1621341659046_10929,
-#block-yui_3_17_2_1_1621341659046_11159,
-#block-yui_3_17_2_1_1621341659046_14247,
-#block-yui_3_17_2_1_1621341659046_14474,
-#block-yui_3_17_2_1_1629751789771_25525,
-#block-yui_3_17_2_1_1629751789771_30085,
-#block-yui_3_17_2_1_1629849144080_28467,
-#block-yui_3_17_2_1_1621341659046_20885,
-#block-yui_3_17_2_1_1621341659046_20947,
-#block-yui_3_17_2_1_1621341659046_17577,
-#block-yui_3_17_2_1_1621341659046_17801,
-#block-yui_3_17_2_1_1629751789771_31441,
-#block-yui_3_17_2_1_1629751789771_30752,
-#block-yui_3_17_2_1_1629849144080_30732,
-#block-yui_3_17_2_1_1621341659046_26454,
-#block-yui_3_17_2_1_1621341659046_26667,
-#block-yui_3_17_2_1_1621341659046_30214,
-#block-yui_3_17_2_1_1621341964741_16940,
-#block-yui_3_17_2_1_1621341659046_30275,
-#block-yui_3_17_2_1_1621341964741_21261,
-#block-yui_3_17_2_1_1621341964741_21564,
-#block-yui_3_17_2_1_1629751789771_42946,
-#block-yui_3_17_2_1_1629751789771_38412,
-#block-yui_3_17_2_1_1629849144080_32881,
-#block-yui_3_17_2_1_1621341659046_35625,
-#block-yui_3_17_2_1_1621341659046_35823,
-#block-yui_3_17_2_1_1621341659046_38781,
-#block-yui_3_17_2_1_1621341659046_38976,
-#block-yui_3_17_2_1_1629751789771_45995,
-#block-yui_3_17_2_1_1629751789771_45373,
-#block-yui_3_17_2_1_1629849144080_33415,
-#block-yui_3_17_2_1_1621343224141_15838,
-#block-yui_3_17_2_1_1621343224141_15978,
-#block-yui_3_17_2_1_1621343224141_18559,
-#block-yui_3_17_2_1_1621343224141_18695,
-#block-yui_3_17_2_1_1629751789771_47282,
-#block-yui_3_17_2_1_1629751789771_46609,
-#block-yui_3_17_2_1_1629849144080_33930,
-#block-yui_3_17_2_1_1621343224141_21241,
-#block-yui_3_17_2_1_1621343224141_21377,
-#block-yui_3_17_2_1_1621343224141_23924,
-#block-yui_3_17_2_1_1621343224141_24054,
-#block-yui_3_17_2_1_1629751789771_48440,
-#block-yui_3_17_2_1_1629751789771_47860,
-#block-yui_3_17_2_1_1629849144080_34450,
-#block-yui_3_17_2_1_1621343224141_41759,
-#block-yui_3_17_2_1_1621343224141_41885,
-#block-yui_3_17_2_1_1621343224141_44365,
-#block-yui_3_17_2_1_1621343224141_44485,
-#block-yui_3_17_2_1_1629751789771_49569,
-#block-yui_3_17_2_1_1629751789771_49001,
-#block-yui_3_17_2_1_1629849144080_34970,
-#block-yui_3_17_2_1_1621343224141_46961,
-#block-yui_3_17_2_1_1621343224141_47080,
-#block-yui_3_17_2_1_1621343224141_49548,
-#block-yui_3_17_2_1_1621343224141_49665,
-#block-yui_3_17_2_1_1629751789771_52370,
-#block-yui_3_17_2_1_1629751789771_57614,
-#block-yui_3_17_2_1_1629849144080_35499,
-#block-yui_3_17_2_1_1621343522065_59359,
-#block-yui_3_17_2_1_1621343522065_59467,
-#block-yui_3_17_2_1_1621343522065_61964,
-#block-yui_3_17_2_1_1621343522065_62037,
-#block-yui_3_17_2_1_1629751789771_60613,
-#block-yui_3_17_2_1_1629751789771_58251,
-#block-yui_3_17_2_1_1629849144080_36016,
-#block-yui_3_17_2_1_1621343522065_56743,
-#block-yui_3_17_2_1_1621343522065_56863,
-#block-yui_3_17_2_1_1621343522065_54536,
-#block-yui_3_17_2_1_1621343522065_50403
-
-{background-image: url(https://i.imgur.com/ay05crJ.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-attachment: fixed;
-  background-size: cover;
-  padding: 30px;
-  border-right: solid 2px Black;
-  border-left: solid 2px Black;
- 
   @media (max-width: 767px){
-background-size: 100% 3000vh;
+    background-size: 100% 3000vh;
+        }
     }
-}
